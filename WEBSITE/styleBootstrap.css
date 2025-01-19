@@ -1,0 +1,8 @@
+.box{
+    background-color: aqua;
+    min-height: 50px;
+    margin-top: 10px;
+}
+p{
+    margin-left: 10px;
+}
